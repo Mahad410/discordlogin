@@ -64,6 +64,13 @@ input {
     margin-top: 8px;
 }
 
+.input_err {
+    color: #ff0000;
+    visibility: hidden;
+    font-weight: 200;
+    font-size: 14px;
+}
+
 input[type="password"] {
     margin-bottom: 8px;
     font-size: 28px;
