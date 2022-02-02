@@ -105,6 +105,7 @@ a:hover {
     font-weight: 600;
     margin-top: 20px;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 
 .btn button:hover {
